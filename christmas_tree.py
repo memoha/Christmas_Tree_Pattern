@@ -8,6 +8,6 @@ for i in range(1, height+1):
  decor = '.' * (2*i-1)
  print(space2 + decor)
 
-space3 = ' ' * (height-2)
-trunk = '|_|'
-print(space3 + trunk)
+ space3 = ' ' * (height-2)
+ trunk = '|_|'
+ print(space3 + trunk)
